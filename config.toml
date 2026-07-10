@@ -1,4 +1,4 @@
-site_title = "MyArxiv"
+site_title = "MyArxiv - Qindeyun"
 limit_days = 7
 cache_url = "https://qindeyun.github.io/MyArxiv/cache.json"
 
