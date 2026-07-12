@@ -1,8 +1,6 @@
 site_title = "MyArxiv - Qindeyun"
 limit_days = 7
-# Temporarily disabled for one deployment to discard categories from the old cache.
-# Restore after the clean deployment has completed.
-# cache_url = "https://qindeyun.github.io/MyArxiv/cache.json"
+cache_url = "https://qindeyun.github.io/MyArxiv/cache.json"
 
 [[sources]]
 limit = 500
